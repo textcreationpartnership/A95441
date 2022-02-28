@@ -1,0 +1,321 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two letters of great concernment, with their answers. The one, from the Scotish Commissioners at London, to the Generall Assembly of the Kirk of Scotland. Together with the answer of the aforesaid Generall Assembly to the said Commissioners. The other, from the synod of Divines in England, to the Generall Assembly of Scotland. Together with the answer also of the aforesaid Generall Assembly in Scotland, to the said synod.</title>
+            <author>Church of Scotland. General Assembly.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95441</idno>
+            <idno type="STC">Wing T3468</idno>
+            <idno type="STC">Thomason E294_4</idno>
+            <idno type="STC">ESTC R27032</idno>
+            <idno type="EEBO-CITATION">99860983</idno>
+            <idno type="PROQUEST">99860983</idno>
+            <idno type="VID">113110</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95441)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113110)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 48:E294[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two letters of great concernment, with their answers. The one, from the Scotish Commissioners at London, to the Generall Assembly of the Kirk of Scotland. Together with the answer of the aforesaid Generall Assembly to the said Commissioners. The other, from the synod of Divines in England, to the Generall Assembly of Scotland. Together with the answer also of the aforesaid Generall Assembly in Scotland, to the said synod.</title>
+                  <author>Church of Scotland. General Assembly.</author>
+                  <author>Westminster Assembly (1643-1652)</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Raworth, in the yeer 1645. July 28. According to the copy printed at Edinburgh.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland. --  General Assembly --  Early works to 1800.</term>
+               <term>Westminster Assembly (1643-1652) --  Early works to 1800.</term>
+               <term>Church renewal --  England --  Early works to 1800.</term>
+               <term>Church renewal --  Scotland --  Early works to 1800.</term>
+               <term>Great Britain --  Religion --  17th century.</term>
+               <term>Scotland --  Religion --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113110:1" rendition="simple:additions"/>
+            <p>TWO LETTERS Of Great Concernment, WITH THEIR ANSWERS.</p>
+            <p>The One, From the <hi>Scotiſh</hi> Commiſsioners at <hi>London,</hi> to the Generall Aſſembly of the Kirk of <hi>Scotland.</hi>
+            </p>
+            <p>Together with the Anſwer of the aforeſaid Generall Aſſembly to the ſaid Commiſſioners.</p>
+            <p>The Other, From the Synod of Divines in <hi>England,</hi> to the Generall Aſſembly of
+<hi>Scotland.</hi>
+            </p>
+            <p>Together with the Anſwer alſo of the afore<g ref="char:EOLhyphen"/>ſaid Generall Aſſembly in
+<hi>Scotland,</hi> to the ſaid Synod.</p>
+            <p>LONDON, Printed by J. <hi>Raworth,</hi> in the yeer 1645. <hi>July</hi> 28. <hi>According to the Copy printed at</hi> Edinburgh.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:113110:2"/>
+            <pb n="3" facs="tcp:113110:2"/>
+            <head>
+               <date>Die Jovis, <hi>23</hi> Jan. <hi>1645.</hi> Poſt meridiem. Seſſ. II.</date>
+            </head>
+            <head type="sub">The Letter from the Commiſsioners at <hi>London</hi> to the Generall Aſſembly.</head>
+            <opener>
+               <salute>Right Honourable, Reverend, and beloved in the Lord,</salute>
+            </opener>
+            <p>AS we are not without the knowledge, ſo are we not without the feeling of the diſtreſſes of our Na<g ref="char:EOLhyphen"/>tive Countrey, and of the troubles of our dear Brethren, ſpecially that the hand of the Lord is ſtretched out againſt you, not onely by Invaſion from without of the baſeſt of the children of men, but alſo by the unnaturall treachery of ſome within, who have dealt perfidiouſly in the Covenant and Cauſe of God: <hi>They hiſſe and gnaſh the teeth; they ſay, We have ſwallowed her up: certain<g ref="char:EOLhyphen"/>ly this is the day that we looked for: we have found, we have ſeen it; the Lord hath cauſed thine Enemy to rejoyce over thee, he hath ſet up the horn of thine Adverſaries:</hi> Yet (ſaith the Lord, who is <hi>thy maker</hi> and thy <hi>husband, the Lord of hoſts is his name, and thy Re<g ref="char:EOLhyphen"/>deemer the holy One of Iſrael</hi>) <hi>for a ſmall moment have I forſaken thee, but with great mercies will I gather thee. In a little wrath I hide
+<pb n="4" facs="tcp:113110:3"/>my face from thee, for a moment; but with everlaſting kindneſſe will I have mercy on thee: for this is as the waters of Noah, the Covenant of my peace ſhall not be removed, ſaith the Lord that hath mercy on thee.</hi> When the foundation of the Houſe of the Lord was laid, the Prieſts and Levites ſung together in praiſing and giving thanks to the Lord,
+<hi>Becauſe he is good, for his mercy endureth for ever.</hi> And we hope at this time upon the coming of our Reverend Brethren, and the ſight of that which they bring with them, the noiſe of the ſhout of joy, ſhall be louder than the noiſe of the weeping of the People. This we may ſay, that not many yeers ago, many of us would have been content to have loſed our lives, that we might have obtained that which the Lord, if not in a miraculous, yet in a marvellous and mercifull providence, hath brought to paſſe in this Iſland, in theſe dayes, which many before us have deſired to ſee, and have not ſeen. God forbid that it ſhould ſeem a ſmall thing in your eyes which is done here already, as it is expreſſed in a Paper from the Parliament, and Letters from the Aſſembly. Ye are beſt acquainted with the temptations and difficulties which ye meet with there, which are alſo very ſenſible unto us; And when we conſider how the Lord hath carried on his Work here, at the firſt taking of the Covenant, and ſince, againſt much learn<g ref="char:EOLhyphen"/>ing and contradiction, againſt much policy, power, and all ſorts of oppoſition, (ſuch as Reformation uſeth to encounter) we are raviſhed with admiration of the right hand of the Almighty. For our part, we may confidently avouch in the ſight of God, and before you, whom next unto God we do reſpect and re<g ref="char:EOLhyphen"/>verence, and to whom as your ſervants we are accomptable, that in all our proceedings we had firſt of all the word of God be<g ref="char:EOLhyphen"/>fore our eyes for the Rule; and for our Patern the Church of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> ſo much as was poſſible; and no leſſe (if not more) than if all this time ſince we parted from you, we had been ſitting in a Nationall Aſſembly there, and debating matters with our Bre<g ref="char:EOLhyphen"/>thren at home: Where we were not able to get every thing fra<g ref="char:EOLhyphen"/>med to our minde, we have endeavoured as much as we could, to preſerve our own Reformation and practice, of which our Brethren will give you accompt in the particulars, we hope, to your ſatisfaction. That an Uniformity in every thing is not ob<g ref="char:EOLhyphen"/>tained in the beginning, let it not ſeem ſtrange; The levelling of the high Mountain of Prelacy, The laying aſide of the Book of
+<pb n="5" facs="tcp:113110:3"/>Common Prayer, The Directory of Worſhip concluded in both Houſes of Parliament, and the principall Propoſitions of Church-Government paſſed in the Aſſembly, all of them according to the Solemne League and Covenant, the greateſt of all, are three or foure witneſſes to prove, that the Lord hath done great things for us, whereof we are glad, and which make us <hi>like them that dream:</hi> And we are ſure, that not onely the Reformed Kirks, but the Papiſts will ſay, The Lord hath done great things for them.</p>
+            <p>All that we deſire, is:</p>
+            <p n="1">1. That the Directory of Worſhip may be returned by our Bre<g ref="char:EOLhyphen"/>thren with all poſſible expedition, that it may be publiſhed here, and put in practiſe, as that which is extreamly longed for by the good People, and will be a remedy of the many differences and diviſions about the Worſhip of God in this Kingdom, eſpecially in this place: If there be any thing in it that diſpleaſeth, let it be remonſtrate upon irrefragable and convincing reaſon, otherwiſe ye will in your wiſdom give approbation to it.</p>
+            <p n="2">2. If there be any particular differences among ſome Bre<g ref="char:EOLhyphen"/>thren, which are not determined, but paſſed over in ſilence in the Directory, and yet hinted at in the Letter from the Aſſembly, we hope that in your wiſdom ye will ſo conſider of them, that they may be laid aſide in due time, and that in the mean while, till the Directory be concluded and put in practice, there be no trouble about them, for that were as Snow in Summer, and as Rain in Harveſt. We know nothing of that kinde, that all of us who love Unity, Order, and Edification, may not perfect<g ref="char:EOLhyphen"/>ly agree in, without ſcandall or diſturbance: And we beſeech the Lord to keep that Kirk free of ſuch Sects and Monſters of Opi<g ref="char:EOLhyphen"/>nions, as are daily ſet on foot and multiplied in this Kingdom, through the want of that Church-Government by Aſſemblies, which hath preſerved us, and we hope, through the bleſſing of God, ſhall cure them.</p>
+            <p n="3">3. Becauſe Nationall Aſſemblies cannot frequently conveene, we humbly deſire, that ſuch a Commiſſion may be ſetled, as we may at all occaſions, till the Work be finiſhed, have our recourſe unto, for our direction and reſolution: for we know both our own weakneſſe, and the greatneſſe of the Work: wherein we can
+<pb n="6" facs="tcp:113110:4"/>promiſe no more but to be faithfull in obeying your command<g ref="char:EOLunhyphen"/>ments, as in the ſight of God, whom with our Souls we pray, to grant you his Spirit, to guide you into all truth: And thus con<g ref="char:EOLhyphen"/>tinue</p>
+            <closer>
+               <dateline>
+                  <hi>Worceſter houſe,</hi>
+                  <date>
+                     <hi>Jan.</hi> 6. 1645.</date>
+               </dateline>
+               <signed>
+                  <hi>Your humble and faithfull Servants</hi> Subſcrib.
+<list>
+                     <item>LOUDOUN.</item>
+                     <item>JO. MAITLAND.</item>
+                     <item>ALEX. HENDERSON.</item>
+                     <item>SAM. RUTHERFURD.</item>
+                  </list>
+               </signed> 
+               <salute>DIRECT. For the Right Reverend the Generall Aſſembly of the Kirk of
+<hi>Scotland.</hi>
+               </salute>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>The Letter from the Synode of Di<g ref="char:EOLhyphen"/>vines in <hi>England,</hi> to the Generall Aſſembly.</head>
+            <opener>
+               <salute>Right honourable, right revered, and dearly beloved in the LORD JES<g ref="char:V">Ʋ</g>S.</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">A</seg>S cold waters to a thirſty ſoul, ſo is good news from a far Countrey.</hi> We your Brethren, yet remaining in the Furnace of affliction, and ſtill labouring in the very fire, Have at length, by the good Hand of God upon us, attained ſo far toward the Mark at which we all aime, that we ſhall now ſend you, by two of your Reverend and Faithfull Commiſſioners M<hi rend="sup">r</hi>
+               <hi>Robert Bailie,</hi> and M<hi rend="sup">r</hi> 
+               <hi>George Gilleſpie</hi> (our much honoured Brethren) ſome good news of that great Work, after which your zeal for Truth and Peace hath ſo much thirſted, and for which you <hi>have not loved your lives unto the death</hi>
+            </p>
+            <pb n="7" facs="tcp:113110:4"/>
+            <p>Our progreſſe therein hath not been ſo expeditious as was de<g ref="char:EOLhyphen"/>ſired and expected. This, unto ſuch as either know not, or conſi<g ref="char:EOLhyphen"/>der not, The weight and greatneſſe of the Work, nor The manifold difficulties which have occurred to obſtruct our proceedings in this day of darkneſſe and calamity (too ſad to be expreſſed) hath been like unto <hi>hope deferred, which makes the</hi> heart ſick: Howbeit, we truſt, <hi>That when their deſire</hi> (namely that which we have pre<g ref="char:EOLhyphen"/>pared, and are further in travell with) <hi>ſhall come</hi> unto them,
+<hi>It will be,</hi> through God, <hi>a Tree of life,</hi> as to our great comfort and en<g ref="char:EOLhyphen"/>couragement, we already perceive it to be to both the honourable Houſes of Parliament.</p>
+            <p>Touching the ſeverall Papers brought to us from your Honour<g ref="char:EOLhyphen"/>able and Reverend Commiſſioners, by the hands of the Commit<g ref="char:EOLhyphen"/>tee appointed to treat with them in matters of Religion (one of the Papers, being given in the 10 of <hi>November,</hi> 1643, Concerneth the ſeverall ſorts of Church-officers and Aſſemblies: Another, bearing date the 24 of
+<hi>January,</hi> 1643, Concerneth Congregation<g ref="char:EOLhyphen"/>all Elderſhips, and Claſſicall Presbyteries: The other, being pre<g ref="char:EOLhyphen"/>ſented the 15 of <hi>Auguſt</hi> laſt, Repreſenteth the neceſſity of making greater ſpeed in ſetling the intended Uniformity in Religion, ac<g ref="char:EOLhyphen"/>cording to the late ſolemne Covenant:) We hold it our duty, in regard both of the arct and inſeparable Union, which the Lord hath happily and ſeaſonably made between you and us, and of your indefatigable and ineſtimable labour of love to this afflicted Kingdom, to give your Lordſhips and the reſt of that Venerable Aſſembly, ſome brief account.</p>
+            <p>Concerning one Confeſſion of Faith, and Forme of Catechiſme, we make no queſtion of a bleſſed and perfect harmony with you. The publike Doctrine, held out by our Church to all the World (eſpecially when it ſhall be reviewed, which is in great part done) concurring ſo much with yours, may aſſure you of your hearts de<g ref="char:EOLhyphen"/>ſire in thoſe particulars, ſo ſoon as time and opportunity may give us liberty to perfect what we have begun.</p>
+            <p>The chief reaſon of laying aſide the review of our publike Do<g ref="char:EOLhyphen"/>ctrine, after the happy and much deſired arrivall of your Reverend Commiſſioners here, was, The drawing up and accelerating of a Directory for Worſhip, and of a Forme of Church-Govern<g ref="char:EOLhyphen"/>ment; in both of which we ſtood at a greater diſtance from other Reformed Churches of Chriſt, and particularly from yours (which
+<pb n="8" facs="tcp:113110:5"/>we very much honour) with whom our ſolemne ſacred Nation<g ref="char:EOLhyphen"/>all Covenant requireth us to endeavour the neareſt Conjunction and Uniformity, that we and our poſterity after us, may as Bre<g ref="char:EOLhyphen"/>thren live in Faith and Love, and the Lord may delight to dwell in the midſt of us.</p>
+            <p>Nor have our labours therein been fruſtrate: For we have per<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cted and tranſmitted a Directory for Worſhip, to both Houſes
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Parliament; where it hath received ſuch acceptance, that it is <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> paſſed in both the Honourable Houſes of Parliament; which <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hope will be to the joy and comfort of all our godly and dear
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rethren in all His Majeſties Kingdoms and Dominions.</p>
+            <p>We have not adviſed any impoſition which might make it un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>wfull to vary from it in any thing; Yet we hope, all our Reve<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nd Brethren in this Kingdom, and in yours alſo, will ſo far value <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d reverence that which upon ſo long debate and ſerious delibe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation hath been agreed upon in this Aſſembly (when it ſhall alſo
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſſe with you, and be ſetled as the common publike Directory or all the Churches in the three Kingdoms) that it ſhall not be he leſſe regarded and obſerved. And albeit we have not expreſſed
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the Directory every minute particular, which is or might be either laid aſide or retained among us, as comely and uſefull in practice; yet we truſt, that none will be ſo tenacious of old cu<g ref="char:EOLhyphen"/>ſtoms not expreſſely forbidden, or ſo averſe from good examples although new, in matters of leſſer conſequence, as to inſiſt upon their liberty of retaining the one, or refuſing the other, becauſe not ſpecified in the Directory; but be ſtudious to pleaſe others rather than themſelves.</p>
+            <p>We have likewiſe ſpent divers moneths in the ſearch of the Scriptures, to finde out the minde of Chriſt concerning a Forme of Church-Government, wherein we could not but expect the greateſt difficulty: For our better Progreſſe herein, we have with all reſpect conſidered the ſeverall Papers of your Honour<g ref="char:EOLhyphen"/>able and Reverend Commiſſioners, touching this Head; and do with all thankfulneſſe, acknowledge their great zeal, judgement, and wiſdom expreſſed therein; as alſo, the excellent aſſiſtance and great furtherance of your Reverend Commiſſioners in this great Work; which now, through Gods goodneſſe, is very near to a period alſo.</p>
+            <p>In purſuit where <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd ſcrutinie of
+<pb n="9" facs="tcp:113110:5"/>every Propoſition, that we might find it agreeable to, and war<g ref="char:EOLhyphen"/>ranted by the Word of God, in a method of our own; without reſting upon any particular modell or frame whatſoever already conſtituted: What we have performed, and how far we have proceeded therein, we leave to the information of your Reverend Commiſſioners, who have been eye and ear-witneſſes of all that hath paſt, and we doubt not but you will ſhortly receive a ſatis<g ref="char:EOLhyphen"/>factory anſwer from hence, ſo ſoon as it ſhall be paſſed in the Ho<g ref="char:EOLhyphen"/>nourable Houſes of Parliament.</p>
+            <p>And now, Right Honourable, and Right Reverend Brethren, let it not ſeem grievous that we have thus long delayed the ſatis<g ref="char:EOLhyphen"/>fying of your earneſt and juſt expectation: It is the Lot of
+<hi>Jeruſa<g ref="char:EOLhyphen"/>lem,</hi> to have her Walls built in troublous times, when there are many adverſaries. Nor let it offend, that (albeit we acknowledge the many, great, and ineſtimable expreſſions of your love, zeal, and helpfulneſſe unto us every way in the day of our diſtreſſe, to be beyond all that we can in words acknowledge) we profeſſe plain<g ref="char:EOLhyphen"/>ly to you, That we do moſt unwillingly part with thoſe our Re<g ref="char:EOLhyphen"/>verend and dear Fellow-labourers, your Commiſſioners, whom now you have called home, to render an account of their imploy<g ref="char:EOLhyphen"/>ment here; which hath been ſo managed both by them and the reſt of their Honourable and Reverend Colleagues, as deſerveth many thanks, and all Honourable acknowledgement, not onely from us, but from you alſo.</p>
+            <p>Give us leave to adde, that the long experience we have had of the great ſufficiency, integrity, and uſefulneſſe of them all, in the great Work of Chriſt our common Lord and Maſter, inforceth us (next to our greateſt ſute, for the continuance of your fervent prayers) to be earneſt ſuiters, not onely for the continuance of theſe excellent helpers, M<hi rend="sup">r</hi>
+               <hi>Alex. Henderſon,</hi> and M<hi rend="sup">r</hi> 
+               <hi>Sam. Rutherfurd,</hi> yet remaining with us, but alſo for the ſpeedy return hither of our Reverend Brethren that are now going hence; for the perfecting of that Work which yet remains. And this ſute we truſt, you will the rather grant, becauſe of the great and joint concernment of both Churches and Kingdoms in theſe matters.</p>
+            <p>Now the ſpirit of wiſdom and of all grace reſt upon you in all your great conſultations, as at all times, ſo eſpecially now when you ſhall be gathered together in the Name of the Lord Jeſus, for the further building up and poliſhing of his Church;
+<pb n="10" facs="tcp:113110:6"/>and cauſe the fruit of all your labour to be to the praiſe and glory of God, and the comfort and rejoycing of the hearts of all <hi>the Iſrael of God:</hi> He reward all our dear Brethren of that Siſter Church and Nation manifold into their boſome, all the labours, love, and ſufferings which they have afforded, and ſtill do cheer<g ref="char:EOLhyphen"/>fully continue, for our ſakes and the Goſpels, in this diſtracted and bleeding Kingdom; ſuppreſſe all commotions and bloody practices of the common Enemy, in both, yea in all the three Kingdoms; ſet up the Throne of <hi>Jeſus Chriſt,</hi> and make all the Kingdoms to be the Lords, and our
+<hi>Jeruſalem</hi> to be a praiſe upon Earth, that all that love her and mourn for her, may rejoyce for joy with her, and may ſuck and be ſatisfied with the breaſts of her conſolation.</p>
+            <closer>
+               <dateline>
+                  <hi>Weſtminſter,</hi>
+                  <date>
+                     <hi>Jan.</hi> 6. 1644.</date>
+               </dateline>
+               <signed>Subſcribed by <hi>Your moſt loving Brethren, and fellow-labourers in the Work of the LORD, in the name of this whole Aſ<g ref="char:EOLhyphen"/>ſembly,</hi>
+                  <list>
+                     <item>WILLIAM TWISE, Prolocutor.</item>
+                     <item>CORNELIUS BURGES, Aſſeſſor.</item>
+                     <item>JOHN WHITE, Aſſeſſor.</item>
+                     <item>HENRY ROBROUGH, Scriba.</item>
+                     <item>ADONIRAM BYFIELD, Scriba.</item>
+                  </list>
+               </signed> 
+               <salute>DIRECT. To the Right Honourable, and Right Reverend, the Generall Aſſem<g ref="char:EOLhyphen"/>bly of the Church of <hi>Scotland,</hi> theſe preſent.</salute>
+            </closer>
+         </div>
+         <div type="answer">
+            <pb n="11" facs="tcp:113110:6"/>
+            <head>The Generall Aſſemblies Anſwer to the Right Reverend the Aſſem<g ref="char:EOLhyphen"/>bly of Divines in the Kirk of ENGLAND.</head>
+            <opener>
+               <salute>Right Reverend and well-beloved in the Lord JES<g ref="char:V">Ʋ</g>S,</salute>
+            </opener>
+            <p>AMidſt the manifold troubles in which this Kingdom hath been involved, and under which it ſtill labour<g ref="char:EOLhyphen"/>eth, we greatly rejoyced when it was teſtified unto us by our reverend Brethren, and under your hands in your Letter, and theſe Papers by them preſented to us from you, what progreſſe you had made in the much deſired Work of Uniformity; and acknowledge, that the ſame hath <hi>comforted us concerning our work and toile of our hands,</hi> and ſeemeth to us as an olive branch, to prognoſticate the abating of the waters, which overflow the face of the Earth.</p>
+            <p>When we conſider, that you have walked in pathes unuſuall, which have not been haunted by Travellers there, as the publike way, though pointed out as the good old way by the Reformed Kirks, we do not wonder that you have carefully adverted in eve<g ref="char:EOLhyphen"/>ry ſtep to ſet foot upon ſure ground; When we behold that ſtrong and high tree of Epiſcopacy, ſo deeply rooted by continuance of time, not lopped of the Branches, and the <hi>ſtumpe of the root left in the Earth, with a band of iron and braſſe,</hi> but pluckt up by the roots; We do confeſſe that the Carpenters, though prepared have a hard task, requiring time to hew it down, and root it up: And when
+<pb n="12" facs="tcp:113110:7"/>we call to mind how much the Service-Book hath been cryed up, as the onely way of Gods Worſhip, how many thereby have had their wealth, and how difficill it is to forgo the accuſtomed way; We admire the power and wiſdom of the good God who hath proſpered you in your way, and led you this length, through ſo many ſtraits, and over ſo many difficulties in ſo troublous a time.</p>
+            <p>We do for our part not onely admit and allow, but moſt hear<g ref="char:EOLhyphen"/>tily and gladly embrace the Directory of Worſhip, as a common Rule for the Kirks of God in the three Kingdoms, now more ſtraitly and firmly united by the Solemne League and Covenant; And we do all in one voice bleſſe the Lord, who hath put it in the hearts, firſt, of the Reverend, Learned, and Pious Aſſembly of Di<g ref="char:EOLhyphen"/>vines, and then, of the Honourable Houſes of Parliament, To agree upon ſuch a Directory as doth remove what is none of Chriſts, and preſerve the purity of all his Ordinances, together with Uniformity and Peace in the Kirk. Onely we have thought neceſſary, to declare and make known, That the Clauſe in the Di<g ref="char:EOLhyphen"/>rectory for the adminiſtration of the Lords Supper, which appoin<g ref="char:EOLhyphen"/>teth the Table to be ſo placed that the Communicants may or<g ref="char:EOLhyphen"/>derly ſit about it, or at it, is not to be interpreted, as if in the judge<g ref="char:EOLhyphen"/>ment of this Kirk it were indifferent for any of the Communi<g ref="char:EOLhyphen"/>cants not to come to and receive at the Table; or as if we did ap<g ref="char:EOLhyphen"/>prove the diſtributing of the Elements by the Miniſters to each Communicant, and not by the Communicants among themſelves: In which particulars, we ſtill conceive and beleeve the order and practice of our own Kirk, To be moſt agreeable and ſutable to the Word of God, the example of our Lord Jeſus Chriſt, and the na<g ref="char:EOLhyphen"/>ture of that Heavenly Feaſt and Table. Nevertheleſſe, in other particulars we have reſolved, and do agree, to do as ye have defi<g ref="char:EOLhyphen"/>red us in your Letter, That is, not to be tenacious of old Cuſtoms, though lawfull in themſelves, and not condemned in this Dire<g ref="char:EOLhyphen"/>ctory, but to lay them aſide for the nearer Uniformity with the Kirk of <hi>England,</hi> now nearer and dearer to us than ever before; A Bleſſing ſo much eſteemed; and ſo earneſtly longed for among us, that rather than it falſe on our part, we do moſt willingly part with ſuch practice and cuſtoms of own, as may be parted with ſafely, and without the violation of any of Chriſts Ordinances, or treſpaſsing againſt Scripturall Rules, or our Solemne Covenants.</p>
+            <p>We do in like manner agree to, and approve the Propoſitions
+<pb n="13" facs="tcp:113110:7"/>touching Kirk-Government and Ordination; and have given power to our Commiſsioners who are to meet in <hi>Edinburgh,</hi> to agree to, and conclude in our Name an Uniformity therein, be<g ref="char:EOLhyphen"/>twixt the Kirks in both Kingdoms, ſo ſoon as the ſame ſhall be without any ſubſtantiall alteration Ratified by an Ordinance of the Honourable Houſes of Parliament of <hi>England,</hi> according to our Act of Approbation ſent to our Commiſsioners with you.</p>
+            <p>As for the returning of our Commiſsioners; though the coun<g ref="char:EOLhyphen"/>cell and aſsiſtance of our Reverend Brethren might be of good uſe to us in theſe difficult times, and their particular ſtations and im<g ref="char:EOLhyphen"/>ployments importune the ſtay of theſe who are come unto us, and the returne of theſe who ſtay with you; yet preferring the publike good, and looking upon the profit may redound unto all by their continuing with you, we have ſatisfied your deſire, and renew<g ref="char:EOLhyphen"/>ed their Commiſsion; Praying God they may (as we are confi<g ref="char:EOLhyphen"/>dent they ſhall) prove anſwerable to our truſt, and to your ex<g ref="char:EOLhyphen"/>pectation.</p>
+            <p>Concerning one Confeſsion of Faith, and Forme of Cate<g ref="char:EOLhyphen"/>chiſme, we apprehend no great difficulty: And to that which remains to be perfected in the matter of Kirk-Government, we do beleeve, and both you and we know by experience, that <hi>there is no word impoſſible with</hi> our <hi>God. He that hath begun a good work among you, will alſo perform it</hi> of his good pleaſure. Go on in the Lord your ſtrength, and <hi>the Spirit of truth lead you in all truth: The God of all grace and peace that brought again from the dead our Lord Jeſus that great ſhepherd of the ſheep, through the blood of the everlaſting Covenant,</hi> and by him
+<hi>hath called us unto his eternall glory, make you perfect in very good work to do his will, working in you, and by you, and among you, that which is well pleaſing in his ſight, ſtabliſh, ſtrengthen, ſetle you, through Jeſus Chriſt our Lord.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>Edinburgh</hi>
+                  <date>13 <hi>Feb.</hi> 1645.</date>
+               </dateline>
+               <signed>
+                  <hi>Subſcribed in name of the Gene<g ref="char:EOLhyphen"/>rall Aſſembly of the Kirk of</hi> Scotland, <hi>by the Moderator of the Aſſembly.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="answer">
+            <pb n="14" facs="tcp:113110:8"/>
+            <head>The Aſſemblies Anſwer to their Commiſsioners at <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>Reverend and beloved Brethren,</salute>
+            </opener>
+            <p>THeſe ſweet Fruits of your long continued Labours in the Work of the Lord entruſted to you, brought to us at this time by theſe two of your number, whom you were pleaſed to ſend, were received by us with no ſmall joy and rejoycing, as being, in great part, the ſatisfaction of our Souls deſire, in that ſo much longed for, ſo much prayed for happy Uniformity of theſe Kirks and Kingdoms: And an evident Demonſtration to us, that the Lord hath not, even in this time of his ſeen and felt diſ<g ref="char:EOLhyphen"/>pleaſure, ſo covered himſelf with the cloud of his anger, that our Prayers ſhould not paſſe through.</p>
+            <p>The great and main difficulties through which the Lord hath carried this Work, as we do acknowledge, ought mainly to be made uſe of, for the praiſe and glory of his power, who is the great worker of all our works for us; So your overcoming of them is to us no ſmall Demonſtration of your zeal, wiſdom, and faithfulneſſe, which without great injury both to the Lord the prime Worker, and to you his Inſtruments, we cannot but ac<g ref="char:EOLhyphen"/>knowledge, hath been much manifeſted in the whole managing of this work in your hands.</p>
+            <p>The full anſwer to all the particulars you write of in your Let<g ref="char:EOLhyphen"/>ters, we leave to the Relation of thoſe that come from you, and are now appointed to return to you: And as with much thank<g ref="char:EOLhyphen"/>fulneſſe we acknowledge your fidelity in what ye have done al<g ref="char:EOLhyphen"/>ready;
+<pb n="15" facs="tcp:113110:8"/>ſo we have again renewed your Commiſſion for the con<g ref="char:EOLhyphen"/>tinuance of your Imployment there, for the perfecting of the Work ſo happily begun: For the furthering whereof, as we ſhall not be wanting in our prayers to God for his bleſſing upon your labours, ſo for your help and aſſiſtance, we have appointed a Com<g ref="char:EOLhyphen"/>miſſion to ſit at <hi>Edinburgh,</hi> to which at all occaſions you may have your recourſe, as the exigence of the Work ſhall require.</p>
+            <p>How ſatisfactory that Directory of Worſhip preſented to us by our Brethren from you, was to us, we leave it rather to their relation at their return, being ear and eye-witneſſes to the mani<g ref="char:EOLhyphen"/>fold expreſſions of our joy and gladneſſe, then offer to repreſent it to you in a Letter: The Act herewith ſent, and ordained to be prefixed unto the Directory, will ſufficiently declare our hearty approbation of it: Our judgement alſo concerning the propoſi<g ref="char:EOLhyphen"/>tions of Government and Ordination, and our earneſt deſire to have the Work of Uniformity promoved and perfected in that particular alſo, will appear to you by the other Act which here<g ref="char:EOLhyphen"/>with you will receive: Our zeal and deſire to have that Work fully cloſed with ſo much harmony as becometh the work of God, will appear to you in our reſolution and anſwer to that par<g ref="char:EOLhyphen"/>ticular in the point of Excommunication, concerning which you write.</p>
+            <p>Theſe particular differences hinted at in the Aſſemblies Letter, for Uniformity with that Kirk ſo much endeared to us, we have reſolved to lay aſide, and have taken courſe for preſerving harmo<g ref="char:EOLhyphen"/>ny amongſt our ſelves, whereof our Brethren will give you more particular account. Anent your deſire of M<hi rend="sup">r</hi> 
+               <hi>Alexander Henderſon</hi> his attending the Treaty, we are conſident ere this you have recei<g ref="char:EOLhyphen"/>ved our reſolution.</p>
+            <p>Amidſt the many difficulties wherewith it pleaſeth the Lord to preſſe us, as we thought it neceſſary to publiſh and ſend forth a Warning to all ſorts of Perſons in this Kirk and Kingdom, con<g ref="char:EOLhyphen"/>cerning the preſent affliction of this Nation, and their ſins pro<g ref="char:EOLhyphen"/>curing the ſame; So we thought it incumbent to us in duty, as the beſt Teſtimony which we can give at this preſent to his Majeſty, to remonſtrate unto him faithfully The great and growing dangers his Majeſty is now under, and the cauſes thereof. This Remon<g ref="char:EOLhyphen"/>ſtrance we have ſent to you, to be preſented to his Majeſty, by ſuch
+<pb n="16" facs="tcp:113110:9"/>means, and at ſuch time, as you who are there upon the place ſhall judge fitteſt.</p>
+            <p>And now dear Brethren, go on with cheerfulneſſe in the Work of the Lord: Let no diſcouragement or oppoſition make your heart to faint, or your hands wax feeble: Perſwade your ſelf the Lords hand ſhall ſtill be made known toward his Servants, and his indignation againſt his Enemies. Remember the Work is his, who uſeth not to begin, but alſo to make an end, and is abundant<g ref="char:EOLhyphen"/>ly able to ſupply all your need according to the riches of his glory. Be confident therefore of this thing, that he who hath begun this good Work by you, will alſo in due time accompliſh it to his own praiſe. To his gracious aſſiſtance we heartily recommend you.</p>
+            <closer>
+               <signed>
+                  <hi>Subſcribed in name of the Generall Aſſembly of the Kirk of</hi> Scot<g ref="char:EOLhyphen"/>land, <hi>by the Modern<g ref="char:EOLhyphen"/>tor of the Aſſembly.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <head>Poſtſcript.</head>
+               <opener>
+                  <dateline>
+                     <hi>Edinburgh,</hi> 
+                     <date>13 <hi>Feb.</hi> 1645.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <hi>It is earnestly deſired That the Dire<g ref="char:EOLhyphen"/>ctory for Worſhip be ſent to</hi> Ire<g ref="char:EOLhyphen"/>land,
+<hi>and that you recommend to the Honourable Houſes of the Parlia<g ref="char:EOLhyphen"/>ment, To think upon the best way for the eſtabliſhment and practice of it in that Kingdom. And that the like courſe may be taken with the Government, and other parts of the <g ref="char:V">Ʋ</g>niformity, ſo ſoon as they ſhall be agreed upon.</hi>
+               </p>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
